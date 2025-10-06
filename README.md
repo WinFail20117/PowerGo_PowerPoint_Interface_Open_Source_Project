@@ -1,4 +1,4 @@
-# PowerGO - PowerPoint-Interface-Open-Source-Project-Gallery
+# PowerGO - PowerPoint-Interface-Open-Source-Project
 ![PowerGO-Logo](https://intereco-basic-1305364972.cos.ap-nanjing.myqcloud.com/2025-10-05/1759708405-647449-image.png)
 ### 什么是PowerGo？
 **PowerGo**即是早期曾发布测试版的**POSP（PowerPoint interface Open Source Project）**
